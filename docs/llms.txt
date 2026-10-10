@@ -1,6 +1,6 @@
 # obhoDDiscOrd
 
-Если Discord висит на Connecting, obhoDDiscOrd поднимает голосовые и видео без стороннего туннеля.
+Актуальная версия с поддержкой работы Discord в текущих условиях. Быстрее, стабильнее, надежнее
 
 Если Discord висит на Connecting, obhoDDiscOrd поднимает голосовые и видео без стороннего туннеля. обход блокировки Discord, Discord не подключается, Discord connecting исправить, голосовой чат Discord не работает. Windows 10 и 11, без VPN.
 
